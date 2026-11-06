@@ -68,7 +68,7 @@
   - 우리가 상상한 미래
   - 우리가 그리는 미래 그리고 나
  
-<div class="poster"><img src="13팀미래포스터.png" alt="2050, 문화 예술 AI 등급 심의제 자리 잡다" width="600"/></div>
+<div class="poster"><img src="team13FuturePoster.png" alt="2050, 문화 예술 AI 등급 심의제 자리 잡다" width="600"/></div>
 
 - 각오와 소감 나누기 ✔️  
 
