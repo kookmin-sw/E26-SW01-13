@@ -6,16 +6,9 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="team13FuturePoster" alt="팀 포스터" width="600"/></div>
 
-<p align="center" class="poster-caption"><sub>이정문 화백, 「서기 2000년대 생활의 이모저모」(1965). 출처: <a href="https://v.daum.net/v/d4FeeJV0EN">전자신문 [과학 핫이슈] 1965년에 상상한 2000년대, 지금 그려보는 20년 후</a></sub></p>
-
-1965년에 35년 뒤의 생활을 상상해 그린 이 그림처럼, 우리 팀이 그리는 미래를 포스터로 만들어 봅시다.
-팀 활동으로 만든 포스터를 `poster.jpg` 파일 이름으로 이 repository에 업로드하면 위 그림이 팀 포스터로 바뀝니다.
-파일 이름이 다르거나 png 파일이면 위 `<img src="poster.jpg">`의 파일 이름을 맞추고, 출처 문구도 팀에 맞게 고쳐 주세요.
-
-> **포스터 파일 권장 규격**: A4 세로 비율(1 : 1.414), 1240×1754px 이상, JPG, 2MB 이하.
-> 홈페이지에서는 어떤 크기·비율의 파일을 올려도 같은 크기의 세로 틀 안에 맞춰 표시되지만, 권장 규격을 지키면 여백 없이 가장 선명하게 보입니다.
+<p align="center" class="poster-caption"><sub>유레카13팀, 「Ai 등급제가 자리잡은 사회」(2026).</a></sub></p>
 
 ***
 
@@ -67,18 +60,6 @@
   - 그들이 만들어가는 세상
   - 우리가 상상한 미래
   - 우리가 그리는 미래 그리고 나
- 
-<div class="poster"><img src="team13FuturePoster.png" alt="2050, 문화 예술 AI 등급 심의제 자리 잡다" width="600"/></div>
-
-- 각오와 소감 나누기 ✔️  
-
-
-<!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
-
-***
 
 ## 4️⃣ 인상 깊은 활동
 
