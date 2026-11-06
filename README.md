@@ -6,7 +6,7 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="team13FuturePoster" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="team13FuturePoster.png" alt="팀 포스터" width="600"/></div>
 
 <p align="center" class="poster-caption"><sub>유레카13팀, 「Ai 등급제가 자리잡은 사회」(2026).</a></sub></p>
 
